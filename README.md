@@ -1,7 +1,7 @@
 # ImageToTextDemo
 Reading text from images is getting easier these days. With special software it's fairly easy. This repository shows you how to convert image to text with Azure Computer Vision and C#.
 
-Follow the complete tutorial at (https://kenslearningcurve.com/tutorials/azure-computer-vision-convert-image-to-text-with-azure/)[https://kenslearningcurve.com/tutorials/azure-computer-vision-convert-image-to-text-with-azure/]
+Follow the complete tutorial at [https://kenslearningcurve.com/tutorials/azure-computer-vision-convert-image-to-text-with-azure/](https://kenslearningcurve.com/tutorials/azure-computer-vision-convert-image-to-text-with-azure/)
 
 # How it works
 
