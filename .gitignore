@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ReceiptReaderDemo/bin/Debug/net6.0
+/ReceiptReaderDemo/obj
+/ReceiptReaderDemo.Tests/bin/Debug/net6.0
+/ReceiptReaderDemo.Tests/obj
